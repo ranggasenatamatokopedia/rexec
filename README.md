@@ -3,7 +3,7 @@ Simple program to exec command remotely in multiple server using ssh.
 
 ### Download
 ```bash
-wget https://github.com/ahmadmuzakki/rexec/raw/master/rexec
+wget https://github.com/ranggasenatamatokopedia/rexec
 ```
 
 ### Usage
