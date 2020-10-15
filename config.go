@@ -23,7 +23,7 @@ func editConfig() error {
 
 	editor := os.Getenv("EDITOR")
 	if editor == "" {
-		editor = "vi"
+		editor = "nano"
 	}
 
 	cmd := exec.Command(editor, fname)
